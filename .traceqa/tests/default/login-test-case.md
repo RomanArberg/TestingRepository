@@ -3,7 +3,7 @@ id: TC-001
 title: login test case
 suite: default
 status: active
-priority: high
+priority: low
 type: smoke
 tags:
   - smoke
