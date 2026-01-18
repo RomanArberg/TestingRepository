@@ -2,7 +2,7 @@
 id: TC-001
 title: sadasd
 suite: default
-status: deprecated
+status: active
 priority: medium
 tags:
   - dasd
