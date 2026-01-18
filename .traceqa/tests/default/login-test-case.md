@@ -3,7 +3,7 @@ id: TC-001
 title: login test case
 suite: default
 status: active
-priority: low
+priority: high
 type: smoke
 tags:
   - smoke
@@ -16,6 +16,7 @@ created_by: roman.arberg@gmail.com
 | # | Action | Expected Result |
 |---|--------|-----------------|
 | 1 | DO this | Achieve success |
+| 2 | NEW STEP | VERIFIED! |
 
 ## Final Expected Result
 
