@@ -1,0 +1,496 @@
+---
+version: 1
+id: adsadsa
+name: adsadsa
+status: draft
+assignments:
+  - testCaseId: TC-076
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-085
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-087
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-090
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-093
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-095
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-098
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-099
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-104
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-105
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-110
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-112
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-114
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-115
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-116
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-118
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-120
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-121
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-122
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-123
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-124
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-320
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-002
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-200
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-201
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-202
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-203
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-204
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-205
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-206
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-207
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-208
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-209
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-210
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-211
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-212
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-213
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-214
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-215
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-216
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-217
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-218
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-219
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-220
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-221
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-222
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-223
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-224
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-225
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-226
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-227
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-228
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-229
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-230
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-231
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-232
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-233
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-234
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-235
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-236
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-237
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-238
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-239
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-240
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-241
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-242
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-243
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-244
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-245
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-246
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-247
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-248
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-249
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-250
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-251
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-252
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-253
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-254
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-255
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-256
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-257
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-258
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-259
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-260
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-261
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-262
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-263
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-264
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-265
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-266
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-267
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-268
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-269
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-270
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-271
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-272
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-273
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-274
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-275
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-276
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-277
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-278
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-279
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-280
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-281
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-282
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-283
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-284
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-285
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-286
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-287
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-288
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-289
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-290
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-291
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-292
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-293
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-294
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-295
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-296
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-297
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-298
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-299
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-300
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-301
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-302
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-303
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-304
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-305
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-306
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-307
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-308
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-309
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-310
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-311
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-312
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-313
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-314
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-315
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-316
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-317
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-318
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-319
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-003
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-004
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-005
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-006
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-007
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-008
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-009
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-010
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-011
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-012
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-013
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-014
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-015
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-016
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-017
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-018
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-019
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-020
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-021
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-022
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-023
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-024
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-025
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-026
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-027
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-028
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-029
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-030
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-031
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-032
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-033
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-034
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-035
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-036
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-037
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-038
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-039
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-040
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-041
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-042
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-043
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-044
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-045
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-046
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-047
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-048
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-049
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-050
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-051
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-052
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-053
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-054
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-055
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-056
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-057
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-058
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-059
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-060
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-061
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-062
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-063
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-064
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-065
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-066
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-067
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-068
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-069
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-070
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-071
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-072
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-073
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-074
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-075
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-077
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-078
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-079
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-080
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-081
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-082
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-083
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-084
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-086
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-088
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-089
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-091
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-092
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-094
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-096
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-097
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-100
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-101
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-102
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-103
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-106
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-107
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-108
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-109
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-111
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-113
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-117
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-119
+    assignee: roman.arberg@gmail.com
+---
+
