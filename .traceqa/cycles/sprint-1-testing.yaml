@@ -1,0 +1,22 @@
+---
+version: 1
+id: sprint-1-testing
+name: Sprint 1 Testing
+description: Optional joke
+status: draft
+startDate: '2026-01-19'
+endDate: '2026-01-26'
+tags:
+  - acceptance testing
+  - mvp
+assignments:
+  - testCaseId: TC-076
+    assignee: ''
+  - testCaseId: TC-226
+    assignee: ''
+  - testCaseId: TC-224
+    assignee: ''
+  - testCaseId: TC-272
+    assignee: ''
+---
+
