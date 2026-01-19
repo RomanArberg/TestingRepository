@@ -1,0 +1,13 @@
+---
+version: 1
+id: myassignment
+name: MyAssignment
+description: dasdsa
+status: draft
+assignments:
+  - testCaseId: TC-076
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-085
+    assignee: roman.arberg@gmail.com
+---
+
