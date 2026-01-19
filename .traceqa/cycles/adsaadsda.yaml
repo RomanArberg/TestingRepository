@@ -1,0 +1,12 @@
+---
+version: 1
+id: adsaadsda
+name: adsaadsda
+status: draft
+assignments:
+  - testCaseId: TC-076
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-085
+    assignee: roman.arberg@gmail.com
+---
+
