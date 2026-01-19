@@ -1,0 +1,12 @@
+---
+version: 1
+id: dsadsa
+name: dsadsa
+status: draft
+assignments:
+  - testCaseId: pagination-test-suite/pagination-test-224.md
+    assignee: roman.arberg@gmail.com
+  - testCaseId: pagination-test-suite/pagination-test-223.md
+    assignee: roman.arberg@gmail.com
+---
+
