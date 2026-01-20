@@ -4,13 +4,13 @@
   "source": "manual",
   "status": "blocked",
   "assignee": "roman.arberg@gmail.com",
-  "executedAt": "2026-01-20T21:39:51.465Z",
+  "executedAt": "2026-01-20T21:40:05.681Z",
   "steps": [
     {
       "step": 1,
       "action": "Execute Step 1",
       "expected": "Success",
-      "status": "pass"
+      "status": "fail"
     },
     {
       "step": 2,
