@@ -1,0 +1,17 @@
+{
+  "testCase": "TC-076",
+  "cycle": "adsadsa",
+  "source": "manual",
+  "status": "passed",
+  "assignee": "roman.arberg@gmail.com",
+  "executedAt": "2026-01-20T21:25:17.496Z",
+  "steps": [
+    {
+      "step": 1,
+      "action": "Go to page",
+      "expected": "Page loads",
+      "status": "pass",
+      "comment": "5454545445"
+    }
+  ]
+}
