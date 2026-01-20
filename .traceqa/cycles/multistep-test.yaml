@@ -1,0 +1,14 @@
+---
+version: 1
+id: multistep-test
+name: Multistep Test
+status: draft
+startDate: '2026-01-20'
+endDate: '2026-01-21'
+tags:
+  - multicycle
+assignments:
+  - testCaseId: TC-321
+    assignee: roman.arberg@gmail.com
+---
+
