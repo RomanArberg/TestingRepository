@@ -1,0 +1,36 @@
+{
+  "testCase": "TC-321",
+  "cycle": "multistep-test",
+  "source": "manual",
+  "status": "blocked",
+  "assignee": "roman.arberg@gmail.com",
+  "executedAt": "2026-01-20T21:39:51.465Z",
+  "steps": [
+    {
+      "step": 1,
+      "action": "Execute Step 1",
+      "expected": "Success",
+      "status": "pass"
+    },
+    {
+      "step": 2,
+      "action": "Execute Step 2",
+      "expected": "Success",
+      "status": "pass"
+    },
+    {
+      "step": 3,
+      "action": "Execute Step 3",
+      "expected": "Success",
+      "status": "fail",
+      "comment": "Step almost passed but failed"
+    },
+    {
+      "step": 4,
+      "action": "Execute Step 4",
+      "expected": "Great Success!",
+      "status": "blocked",
+      "comment": "Blocked until step 3 resolved"
+    }
+  ]
+}
