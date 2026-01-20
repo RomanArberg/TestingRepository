@@ -1,0 +1,16 @@
+{
+  "testCase": "TC-104",
+  "cycle": "adsadsa",
+  "source": "manual",
+  "status": "blocked",
+  "assignee": "roman.arberg@gmail.com",
+  "executedAt": "2026-01-20T21:27:31.086Z",
+  "steps": [
+    {
+      "step": 1,
+      "action": "Action 21",
+      "expected": "Result 21",
+      "status": "blocked"
+    }
+  ]
+}
