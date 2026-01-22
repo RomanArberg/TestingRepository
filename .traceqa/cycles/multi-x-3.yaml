@@ -1,0 +1,10 @@
+---
+version: 1
+id: multi-x-3
+name: multi-x-3
+status: draft
+assignments:
+  - testCaseId: TC-321
+    assignee: roman.arberg@gmail.com
+---
+
