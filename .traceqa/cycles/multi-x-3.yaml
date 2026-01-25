@@ -5,6 +5,6 @@ name: multi-x-3
 status: draft
 assignments:
   - testCaseId: TC-321
-    assignee: bob@test.local
+    assignee: roman.arberg@gmail.com
 ---
 
