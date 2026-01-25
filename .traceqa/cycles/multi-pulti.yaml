@@ -5,6 +5,6 @@ name: multi-pulti
 status: draft
 assignments:
   - testCaseId: TC-321
-    assignee: roman.arberg@gmail.com
+    assignee: alice@test.local
 ---
 
