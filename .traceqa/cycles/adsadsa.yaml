@@ -25,7 +25,7 @@ assignments:
   - testCaseId: TC-105
     assignee: bob@test.local
   - testCaseId: TC-110
-    assignee: roman.arberg@gmail.com
+    assignee: bob@test.local
   - testCaseId: TC-112
     assignee: roman.arberg@gmail.com
   - testCaseId: TC-114
