@@ -1,0 +1,15 @@
+---
+version: 1
+id: wednesday-testing
+name: Wednesday Testing
+status: draft
+startDate: '2026-01-29'
+endDate: '2026-01-30'
+tags:
+  - wednesday
+  - test
+assignments:
+  - testCaseId: TC-076
+    assignee: roman.arberg@gmail.com
+---
+
