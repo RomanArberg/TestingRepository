@@ -2,18 +2,22 @@
   "testCase": "TC-002",
   "cycle": "adsadsa",
   "source": "manual",
-  "status": "passed",
+  "status": "in_progress",
   "assignee": "roman.arberg@gmail.com",
-  "executedAt": "2026-01-28T22:20:26.996Z",
+  "executedAt": "2026-01-28T22:22:12.549Z",
   "steps": [
     {
       "step": 1,
       "action": "Check versioning",
       "expected": "2.5.6",
-      "status": "pass",
+      "status": "pending",
       "attachments": [
         {
-          "url": "https://pub-7beeeb68a0d34b028c8cde0534b78b42.r2.dev/workspaces/345d5b9a-0e5d-4024-bfc0-937784addb78/artifacts/16c69e31-dd21-4e85-ba88-7fc63509f3dd/Generated Image December 17, 2025 - 9_36PM.jpeg",
+          "url": "https://pub-7beeeb68a0d34b028c8cde0534b78b42.r2.dev/workspaces/345d5b9a-0e5d-4024-bfc0-937784addb78/artifacts/c9f43986-1345-4657-b8a6-b25f179dd504/Generated Image December 17, 2025 - 9_36PM.jpeg",
+          "type": "screenshot"
+        },
+        {
+          "url": "https://pub-7beeeb68a0d34b028c8cde0534b78b42.r2.dev/workspaces/345d5b9a-0e5d-4024-bfc0-937784addb78/artifacts/6377bef2-c49f-41f7-ba46-d314d2c060b4/Generated Image December 17, 2025 - 9_36PM.jpeg",
           "type": "screenshot"
         }
       ]
