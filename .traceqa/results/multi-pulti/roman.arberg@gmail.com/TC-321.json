@@ -4,13 +4,19 @@
   "source": "manual",
   "status": "in_progress",
   "assignee": "roman.arberg@gmail.com",
-  "executedAt": "2026-01-29T19:19:42.944Z",
+  "executedAt": "2026-01-29T19:20:30.912Z",
   "steps": [
     {
       "step": 1,
       "action": "Execute Step 1",
       "expected": "Success",
-      "status": "fail"
+      "status": "fail",
+      "attachments": [
+        {
+          "url": "https://pub-7beeeb68a0d34b028c8cde0534b78b42.r2.dev/workspaces/345d5b9a-0e5d-4024-bfc0-937784addb78/artifacts/ddef98e8-6462-4cd2-9fec-65c5ec2ead0e/Generated Image December 09, 2025 - 2_50PM.jpeg",
+          "type": "screenshot"
+        }
+      ]
     },
     {
       "step": 2,
