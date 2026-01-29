@@ -1,0 +1,22 @@
+{
+  "testCase": "TC-119",
+  "cycle": "adsadsa",
+  "source": "manual",
+  "status": "in_progress",
+  "assignee": "roman.arberg@gmail.com",
+  "executedAt": "2026-01-29T19:33:58.926Z",
+  "steps": [
+    {
+      "step": 1,
+      "action": "Action 1 for test 118",
+      "expected": "Expected result 1",
+      "status": "pass"
+    },
+    {
+      "step": 2,
+      "action": "Action 2 for test 118",
+      "expected": "Expected result 2",
+      "status": "pending"
+    }
+  ]
+}
