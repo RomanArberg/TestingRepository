@@ -1,0 +1,10 @@
+---
+version: 1
+id: qwert
+name: qwert
+status: draft
+assignments:
+  - testCaseId: TC-321
+    assignee: roman.arberg@gmail.com
+---
+
