@@ -1,0 +1,46 @@
+{
+  "testCase": "TC-321",
+  "cycle": "cycle-1337",
+  "source": "manual",
+  "status": "in_progress",
+  "assignee": "roman.arberg@gmail.com",
+  "executedAt": "2026-01-29T19:01:46.649Z",
+  "steps": [
+    {
+      "step": 1,
+      "action": "Execute Step 1",
+      "expected": "Success",
+      "status": "pass",
+      "attachments": [
+        {
+          "url": "https://pub-7beeeb68a0d34b028c8cde0534b78b42.r2.dev/workspaces/345d5b9a-0e5d-4024-bfc0-937784addb78/artifacts/f561903f-83f1-424e-bf6d-efc249b8e55f/Generated Image December 18, 2025 - 10_04AM.jpeg",
+          "type": "screenshot"
+        }
+      ]
+    },
+    {
+      "step": 2,
+      "action": "Execute Step 2",
+      "expected": "Success",
+      "status": "fail",
+      "attachments": [
+        {
+          "url": "https://pub-7beeeb68a0d34b028c8cde0534b78b42.r2.dev/workspaces/345d5b9a-0e5d-4024-bfc0-937784addb78/artifacts/8742957a-f24c-4068-87c0-50f81ff43998/TraceQA.png",
+          "type": "screenshot"
+        }
+      ]
+    },
+    {
+      "step": 3,
+      "action": "Execute Step 3",
+      "expected": "Success",
+      "status": "pending"
+    },
+    {
+      "step": 4,
+      "action": "Execute Step 4",
+      "expected": "Great Success!",
+      "status": "pending"
+    }
+  ]
+}
