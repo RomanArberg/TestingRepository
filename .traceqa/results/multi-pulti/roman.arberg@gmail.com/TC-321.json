@@ -4,7 +4,7 @@
   "source": "manual",
   "status": "in_progress",
   "assignee": "roman.arberg@gmail.com",
-  "executedAt": "2026-01-29T19:03:47.598Z",
+  "executedAt": "2026-01-29T19:19:42.944Z",
   "steps": [
     {
       "step": 1,
@@ -16,7 +16,7 @@
       "step": 2,
       "action": "Execute Step 2",
       "expected": "Success",
-      "status": "pending"
+      "status": "pass"
     },
     {
       "step": 3,
