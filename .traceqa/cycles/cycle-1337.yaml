@@ -1,0 +1,12 @@
+---
+version: 1
+id: cycle-1337
+name: Cycle 1337
+status: draft
+tags:
+  - '1337'
+assignments:
+  - testCaseId: TC-321
+    assignee: roman.arberg@gmail.com
+---
+
