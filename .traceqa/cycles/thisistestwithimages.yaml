@@ -1,0 +1,12 @@
+---
+version: 1
+id: thisistestwithimages
+name: ThisIsTestWithImages
+status: draft
+tags:
+  - img
+assignments:
+  - testCaseId: TC-321
+    assignee: roman.arberg@gmail.com
+---
+
