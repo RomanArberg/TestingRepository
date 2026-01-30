@@ -1,0 +1,28 @@
+{
+  "testCase": "TC-094",
+  "cycle": "adsadsa",
+  "source": "manual",
+  "status": "in_progress",
+  "assignee": "roman.arberg@gmail.com",
+  "executedAt": "2026-01-30T14:39:01.323Z",
+  "steps": [
+    {
+      "step": 1,
+      "action": "Action 1 for test 93",
+      "expected": "Expected result 1",
+      "status": "pending",
+      "attachments": [
+        {
+          "url": "https://pub-7beeeb68a0d34b028c8cde0534b78b42.r2.dev/workspaces/345d5b9a-0e5d-4024-bfc0-937784addb78/artifacts/4456da1f-fd02-45de-aefa-4be05b9e95a3/image (3).png",
+          "type": "screenshot"
+        }
+      ]
+    },
+    {
+      "step": 2,
+      "action": "Action 2 for test 93",
+      "expected": "Expected result 2",
+      "status": "pending"
+    }
+  ]
+}
