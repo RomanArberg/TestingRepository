@@ -1,0 +1,28 @@
+{
+  "testCase": "TC-113",
+  "cycle": "adsadsa",
+  "source": "manual",
+  "status": "passed",
+  "assignee": "roman.arberg@gmail.com",
+  "executedAt": "2026-01-30T11:47:11.284Z",
+  "steps": [
+    {
+      "step": 1,
+      "action": "Action 1 for test 112",
+      "expected": "Expected result 1",
+      "status": "pass"
+    },
+    {
+      "step": 2,
+      "action": "Action 2 for test 112",
+      "expected": "Expected result 2",
+      "status": "pass",
+      "attachments": [
+        {
+          "url": "https://pub-7beeeb68a0d34b028c8cde0534b78b42.r2.dev/workspaces/345d5b9a-0e5d-4024-bfc0-937784addb78/artifacts/1f5f3622-e31c-4f5a-a6bd-1e78115df9b8/TraceQA.png",
+          "type": "screenshot"
+        }
+      ]
+    }
+  ]
+}
