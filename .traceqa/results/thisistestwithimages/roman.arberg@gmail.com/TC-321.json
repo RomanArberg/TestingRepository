@@ -1,0 +1,53 @@
+{
+  "testCase": "TC-321",
+  "cycle": "thisistestwithimages",
+  "source": "manual",
+  "status": "failed",
+  "assignee": "roman.arberg@gmail.com",
+  "executedAt": "2026-01-30T14:34:49.315Z",
+  "steps": [
+    {
+      "step": 1,
+      "action": "Execute Step 1",
+      "expected": "Success",
+      "status": "pass",
+      "attachments": [
+        {
+          "url": "https://pub-7beeeb68a0d34b028c8cde0534b78b42.r2.dev/workspaces/345d5b9a-0e5d-4024-bfc0-937784addb78/artifacts/8d085223-cab6-4c9b-9c56-39ab284dc5e7/TraceQA.png",
+          "type": "screenshot"
+        }
+      ]
+    },
+    {
+      "step": 2,
+      "action": "Execute Step 2",
+      "expected": "Success",
+      "status": "pass",
+      "attachments": [
+        {
+          "url": "https://pub-7beeeb68a0d34b028c8cde0534b78b42.r2.dev/workspaces/345d5b9a-0e5d-4024-bfc0-937784addb78/artifacts/0a68d0d4-cb17-45f5-826a-2d03411cf189/TraceQA.png",
+          "type": "screenshot"
+        }
+      ]
+    },
+    {
+      "step": 3,
+      "action": "Execute Step 3",
+      "expected": "Success",
+      "status": "pass",
+      "attachments": [
+        {
+          "url": "https://pub-7beeeb68a0d34b028c8cde0534b78b42.r2.dev/workspaces/345d5b9a-0e5d-4024-bfc0-937784addb78/artifacts/ef7fbadb-1ca0-4f11-83e2-49d03691ab8e/handest-murer-regning.jpg",
+          "type": "screenshot"
+        }
+      ]
+    },
+    {
+      "step": 4,
+      "action": "Execute Step 4",
+      "expected": "Great Success!",
+      "status": "fail",
+      "comment": "FAILED TEST!!!!33333111"
+    }
+  ]
+}
