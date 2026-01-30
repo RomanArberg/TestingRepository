@@ -1,0 +1,10 @@
+---
+version: 1
+id: multi-pulti-1
+name: multi-pulti-1
+status: draft
+assignments:
+  - testCaseId: TC-321
+    assignee: roman.arberg@gmail.com
+---
+
