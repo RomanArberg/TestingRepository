@@ -2,16 +2,21 @@
   "testCase": "TC-116",
   "cycle": "adsadsa",
   "source": "manual",
-  "status": "passed",
+  "status": "failed",
   "assignee": "roman.arberg@gmail.com",
-  "executedAt": "2026-01-20T21:28:35.856Z",
+  "executedAt": "2026-01-30T12:24:14.383Z",
   "steps": [
     {
       "step": 1,
       "action": "Action 33",
       "expected": "Result 33",
-      "status": "pass",
-      "comment": "188824"
+      "status": "fail",
+      "attachments": [
+        {
+          "url": "https://pub-7beeeb68a0d34b028c8cde0534b78b42.r2.dev/workspaces/345d5b9a-0e5d-4024-bfc0-937784addb78/artifacts/d4fb94ea-0e5a-4d1f-be4c-ed01492c324b/image (1).png",
+          "type": "screenshot"
+        }
+      ]
     }
   ]
 }
