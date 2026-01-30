@@ -1,0 +1,17 @@
+{
+  "testCase": "TC-076",
+  "cycle": "myassignment",
+  "source": "manual",
+  "status": "failed",
+  "assignee": "roman.arberg@gmail.com",
+  "executedAt": "2026-01-30T12:25:36.457Z",
+  "steps": [
+    {
+      "step": 1,
+      "action": "Go to page",
+      "expected": "Page loads",
+      "status": "fail",
+      "comment": "ok"
+    }
+  ]
+}
