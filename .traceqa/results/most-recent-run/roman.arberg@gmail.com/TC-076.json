@@ -2,15 +2,15 @@
   "testCase": "TC-076",
   "cycle": "most-recent-run",
   "source": "manual",
-  "status": "failed",
+  "status": "passed",
   "assignee": "roman.arberg@gmail.com",
-  "executedAt": "2026-02-02T09:36:14.014Z",
+  "executedAt": "2026-02-02T09:36:34.225Z",
   "steps": [
     {
       "step": 1,
-      "action": "Go to page",
-      "expected": "Page loads",
-      "status": "fail"
+      "action": "Quick triage",
+      "expected": "",
+      "status": "pass"
     }
   ]
 }
