@@ -1,0 +1,16 @@
+{
+  "testCase": "TC-110",
+  "cycle": "most-recent-run",
+  "source": "manual",
+  "status": "passed",
+  "assignee": "roman.arberg@gmail.com",
+  "executedAt": "2026-02-02T15:50:17.818Z",
+  "steps": [
+    {
+      "step": 1,
+      "action": "Action 27",
+      "expected": "Result 27",
+      "status": "pass"
+    }
+  ]
+}
