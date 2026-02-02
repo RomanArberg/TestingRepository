@@ -1,0 +1,28 @@
+---
+version: 1
+id: most-recent-run
+name: Most Recent Run
+status: draft
+assignments:
+  - testCaseId: TC-076
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-085
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-087
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-090
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-095
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-093
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-098
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-099
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-104
+    assignee: roman.arberg@gmail.com
+  - testCaseId: TC-110
+    assignee: roman.arberg@gmail.com
+---
+

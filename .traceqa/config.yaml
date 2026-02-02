@@ -4,6 +4,10 @@ workspaces:
     slug: myworkspace
     id: 345d5b9a-0e5d-4024-bfc0-937784addb78
     created: 2026-01-18T19:55:17.501031+00:00
+  - name: Just Another Workspace
+    slug: just-another-workspace
+    id: 62f8e7f0-e7f0-4023-9713-314334cb29c3
+    created: 2026-01-31T15:47:24.499218+00:00
 settings:
   id_prefix: TC
   id_counter: 0
