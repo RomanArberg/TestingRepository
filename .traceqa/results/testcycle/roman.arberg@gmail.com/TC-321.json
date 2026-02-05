@@ -1,0 +1,34 @@
+{
+  "testCase": "TC-321",
+  "cycle": "testcycle",
+  "source": "manual",
+  "status": "in_progress",
+  "assignee": "roman.arberg@gmail.com",
+  "executedAt": "2026-02-05T15:57:54.490Z",
+  "steps": [
+    {
+      "step": 1,
+      "action": "Execute Step 1",
+      "expected": "Success",
+      "status": "pass"
+    },
+    {
+      "step": 2,
+      "action": "Execute Step 2",
+      "expected": "Success",
+      "status": "pending"
+    },
+    {
+      "step": 3,
+      "action": "Execute Step 3",
+      "expected": "Success",
+      "status": "pass"
+    },
+    {
+      "step": 4,
+      "action": "Execute Step 4",
+      "expected": "Great Success!",
+      "status": "pending"
+    }
+  ]
+}
