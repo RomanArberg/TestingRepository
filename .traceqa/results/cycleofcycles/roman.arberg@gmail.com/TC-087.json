@@ -2,15 +2,15 @@
   "testCase": "TC-087",
   "cycle": "cycleofcycles",
   "source": "manual",
-  "status": "passed",
+  "status": "blocked",
   "assignee": "roman.arberg@gmail.com",
-  "executedAt": "2026-02-05T20:52:25.884Z",
+  "executedAt": "2026-02-05T20:57:46.802Z",
   "steps": [
     {
       "step": 1,
       "action": "Action 4",
       "expected": "Result 4",
-      "status": "pass"
+      "status": "blocked"
     }
   ]
 }
