@@ -1,0 +1,11 @@
+---
+version: 1
+id: testcycle
+name: TestCycle
+status: draft
+endDate: '2026-02-14'
+assignments:
+  - testCaseId: TC-321
+    assignee: roman.arberg@gmail.com
+---
+
