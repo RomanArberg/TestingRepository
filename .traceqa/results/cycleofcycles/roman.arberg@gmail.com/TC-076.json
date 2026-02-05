@@ -1,0 +1,16 @@
+{
+  "testCase": "TC-076",
+  "cycle": "cycleofcycles",
+  "source": "manual",
+  "status": "passed",
+  "assignee": "roman.arberg@gmail.com",
+  "executedAt": "2026-02-05T20:52:01.276Z",
+  "steps": [
+    {
+      "step": 1,
+      "action": "Go to page",
+      "expected": "Page loads",
+      "status": "pass"
+    }
+  ]
+}
