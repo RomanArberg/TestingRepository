@@ -1,0 +1,91 @@
+{
+  "testCase": "TC-587",
+  "cycle": "smoke-test-1",
+  "source": "manual",
+  "status": "passed",
+  "assignee": "roman.arberg@gmail.com",
+  "executedAt": "2026-03-09T19:23:00.363Z",
+  "steps": [
+    {
+      "step": 1,
+      "action": "Send `GET /api/workspaces` with `Authorization: Bearer $TRACEQA_API_KEY`",
+      "expected": "HTTP 200; returns workspaces scoped to org-123 only",
+      "status": "pass",
+      "quickCompleted": true
+    },
+    {
+      "step": 2,
+      "action": "Send `GET /api/workspaces/ws-abc` with `Authorization: Bearer $TRACEQA_API_KEY`",
+      "expected": "HTTP 200; returns workspace detail",
+      "status": "pass",
+      "quickCompleted": true
+    },
+    {
+      "step": 3,
+      "action": "Send `GET /api/workspaces/ws-xyz` with `Authorization: Bearer $TRACEQA_API_KEY` (different org)",
+      "expected": "HTTP 404; workspace from another org is not accessible with this key",
+      "status": "pass",
+      "quickCompleted": true
+    },
+    {
+      "step": 4,
+      "action": "Send `GET /api/workspaces/ws-abc/cycles` with `Authorization: Bearer $TRACEQA_API_KEY`",
+      "expected": "HTTP 200; cycles returned",
+      "status": "pass",
+      "quickCompleted": true
+    },
+    {
+      "step": 5,
+      "action": "Send `GET /api/workspaces/ws-abc/test-cases` with `Authorization: Bearer $TRACEQA_API_KEY`",
+      "expected": "HTTP 200; test cases returned",
+      "status": "pass",
+      "quickCompleted": true
+    },
+    {
+      "step": 6,
+      "action": "Send `GET /api/workspaces/ws-abc/results` with `Authorization: Bearer $TRACEQA_API_KEY`",
+      "expected": "HTTP 200; results returned",
+      "status": "pass",
+      "quickCompleted": true
+    },
+    {
+      "step": 7,
+      "action": "Send `PATCH /api/workspaces/ws-abc` with API key and `{ \"name\": \"New Name\" }`",
+      "expected": "HTTP 200; workspace name updated",
+      "status": "pass",
+      "quickCompleted": true
+    },
+    {
+      "step": 8,
+      "action": "Send `GET /api/workspaces/ws-abc` with valid session cookie (cookie auth still works)",
+      "expected": "HTTP 200; cookie auth continues to function alongside API key auth",
+      "status": "pass",
+      "quickCompleted": true
+    },
+    {
+      "step": 9,
+      "action": "Send any workspace route with `Authorization: Bearer invalid-key`",
+      "expected": "HTTP 401; `{ \"error\": \"Invalid API key\" }` or equivalent",
+      "status": "pass",
+      "quickCompleted": true
+    },
+    {
+      "step": 10,
+      "action": "Send `DELETE /api/workspaces/ws-abc` with `Authorization: Bearer $TRACEQA_MEMBER_API_KEY` and valid confirmName",
+      "expected": "HTTP 403; DELETE requires owner role",
+      "status": "pass",
+      "quickCompleted": true
+    },
+    {
+      "step": 11,
+      "action": "Send `DELETE /api/workspaces/ws-abc` with owner API key and `{ \"confirmName\": \"New Name\" }`",
+      "expected": "HTTP 204; workspace deleted",
+      "status": "pass",
+      "quickCompleted": true
+    }
+  ],
+  "quickCompleted": {
+    "status": "pass",
+    "at": "2026-03-09T19:23:00.363Z"
+  }
+}
