@@ -1,42 +1,16 @@
 {
   "testCase": "TC-426",
   "cycle": "smoke-test-1",
-  "source": "manual",
-  "status": "failed",
+  "source": "automation",
+  "status": "passed",
   "assignee": "roman.arberg@gmail.com",
-  "executedAt": "2026-03-09T19:22:40.900Z",
+  "executedAt": "2026-03-11T10:34:24.565Z",
   "steps": [
     {
       "step": 1,
-      "action": "Call GET /api/workspaces/00000000-0000-0000-0000-000000000000/test-cases",
-      "expected": "Response 404 with error message",
-      "status": "fail",
-      "quickCompleted": true
-    },
-    {
-      "step": 2,
-      "action": "Call GET /api/workspaces/00000000-0000-0000-0000-000000000000/cycles",
-      "expected": "Response 404 with error message",
-      "status": "fail",
-      "quickCompleted": true
-    },
-    {
-      "step": 3,
-      "action": "Call GET /api/workspaces/00000000-0000-0000-0000-000000000000",
-      "expected": "Response 404 with error message",
-      "status": "fail",
-      "quickCompleted": true
-    },
-    {
-      "step": 4,
-      "action": "Verify error response does not reveal whether the workspace exists in another org",
-      "expected": "Error message is generic 'Not found' or 'Workspace not found'",
-      "status": "fail",
-      "quickCompleted": true
+      "action": "TC-426",
+      "expected": "",
+      "status": "pass"
     }
-  ],
-  "quickCompleted": {
-    "status": "fail",
-    "at": "2026-03-09T19:22:40.900Z"
-  }
+  ]
 }

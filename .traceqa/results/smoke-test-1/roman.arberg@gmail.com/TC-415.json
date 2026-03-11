@@ -1,0 +1,17 @@
+{
+  "testCase": "TC-415",
+  "cycle": "smoke-test-1",
+  "source": "automation",
+  "status": "failed",
+  "assignee": "roman.arberg@gmail.com",
+  "executedAt": "2026-03-11T10:34:24.166Z",
+  "steps": [
+    {
+      "step": 1,
+      "action": "TC-415",
+      "expected": "",
+      "status": "fail",
+      "comment": "Expected 200 got 500"
+    }
+  ]
+}
