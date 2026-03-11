@@ -1,15 +1,15 @@
 ---
 version: 1
 id: smoke-test-1
-name: Smoke Test 1
+name: sprint-24
 status: active
 assignments:
   - testCaseId: TC-426
     assignee: roman.arberg@gmail.com
-  - testCaseId: TC-587
+  - testCaseId: TC-565
     assignee: roman.arberg@gmail.com
   - testCaseId: TC-576
     assignee: roman.arberg@gmail.com
-  - testCaseId: TC-565
+  - testCaseId: TC-587
     assignee: roman.arberg@gmail.com
 ---
