@@ -1,0 +1,49 @@
+{
+  "testCase": "TC-565",
+  "cycle": "smoke-test-1",
+  "source": "manual",
+  "status": "passed",
+  "assignee": "roman.arberg@gmail.com",
+  "executedAt": "2026-03-11T10:39:09.910Z",
+  "steps": [
+    {
+      "step": 1,
+      "action": "POST `import-results` where all test cases are already assigned to the cycle",
+      "expected": "Response contains `\"assignmentsCreated\": 0` — the field is present with value `0`, not omitted",
+      "status": "pass",
+      "quickCompleted": true
+    },
+    {
+      "step": 2,
+      "action": "POST `import-results` where one new test case is assigned for the first time",
+      "expected": "Response contains `\"assignmentsCreated\": 1`",
+      "status": "pass",
+      "quickCompleted": true
+    },
+    {
+      "step": 3,
+      "action": "POST `import-results` with a dry-run (`dryRun: true`)",
+      "expected": "Response still includes `\"assignmentsCreated\": 0` (no actual assignments in dry-run mode)",
+      "status": "pass",
+      "quickCompleted": true
+    },
+    {
+      "step": 4,
+      "action": "POST `import-results` where cycle is auto-created (new cycle) with 3 new assignments",
+      "expected": "Response contains `\"assignmentsCreated\": 3` and `\"cycleCreated\": true`",
+      "status": "pass",
+      "quickCompleted": true
+    },
+    {
+      "step": 5,
+      "action": "Parse the response with a strict JSON schema that requires `assignmentsCreated` as a number",
+      "expected": "Schema validation passes — the field is always a `number`, never `undefined`",
+      "status": "pass",
+      "quickCompleted": true
+    }
+  ],
+  "quickCompleted": {
+    "status": "pass",
+    "at": "2026-03-11T10:39:09.910Z"
+  }
+}
