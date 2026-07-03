@@ -14,15 +14,14 @@ created_by: roman.arberg@gmail.com
 ---
 ## Preconditions
 
-User is logged in
+- Session ready
 
 ## Steps
 
 | # | Action | Expected Result |
 |---|--------|-----------------|
-| 1 | Open app | Loads |
-| 2 | Click run | Runs |
+| 1 | Do thing | Thing done |
 
 ## Final Expected Result
 
-All audit checks pass
+- Body file applied
