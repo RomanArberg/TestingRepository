@@ -5,7 +5,7 @@ suite: cli-audit
 status: draft
 priority: high
 type: regression
-automation_status: manual
+automation_status: automated
 tags:
   - cli-audit
   - probe
