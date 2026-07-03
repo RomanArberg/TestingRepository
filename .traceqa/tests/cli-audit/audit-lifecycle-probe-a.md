@@ -24,4 +24,4 @@ User is logged in
 
 ## Final Expected Result
 
-- Audit TC lifecycle works end to end
+All audit checks pass
