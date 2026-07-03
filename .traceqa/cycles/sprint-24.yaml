@@ -8,4 +8,6 @@ assignments:
     assignee: ''
   - testCaseId: TC-415
     assignee: qa@example.com
+  - testCaseId: TC-99999
+    assignee: ''
 ---
