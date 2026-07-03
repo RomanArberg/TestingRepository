@@ -20,7 +20,8 @@ User is logged in
 
 | # | Action | Expected Result |
 |---|--------|-----------------|
-| 1 | Run the audit probe | It passes |
+| 1 | Open app | Loads |
+| 2 | Click run | Runs |
 
 ## Final Expected Result
 
