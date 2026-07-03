@@ -3,7 +3,7 @@ id: TC-576
 title: Import — auto-marks test case steps based on step_count metadata
 suite: api
 status: active
-priority: low
+priority: medium
 type: acceptance
 automation_status: planned
 tags:
