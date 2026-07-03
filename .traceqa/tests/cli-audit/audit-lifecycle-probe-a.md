@@ -1,7 +1,7 @@
 ---
 id: TC-1000
 title: Audit lifecycle probe A
-suite: api
+suite: cli-audit
 status: active
 priority: high
 automation_status: manual
