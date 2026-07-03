@@ -4,11 +4,11 @@ id: sprint-24
 name: Sprint 24
 status: draft
 assignments:
-  - testCaseId: TC-94
-    assignee: ''
   - testCaseId: TC-426
     assignee: ''
   - testCaseId: TC-248
+    assignee: ''
+  - testCaseId: TC-94
     assignee: ''
   - testCaseId: TC-223
     assignee: ''
