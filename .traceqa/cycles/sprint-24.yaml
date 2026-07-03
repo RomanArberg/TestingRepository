@@ -3,7 +3,4 @@ version: 1
 id: sprint-24
 name: Sprint 24
 status: draft
-assignments:
-  - testCaseId: TC-426
-    assignee: ''
 ---
