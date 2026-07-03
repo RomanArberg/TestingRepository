@@ -4,6 +4,8 @@ id: sprint-25
 name: Sprint 25 v2
 description: Regression round
 status: completed
+startDate: '2026-03-01'
+endDate: '2026-03-15'
 tags:
   - v2
   - final
