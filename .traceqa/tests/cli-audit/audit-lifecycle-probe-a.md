@@ -14,7 +14,7 @@ created_by: roman.arberg@gmail.com
 ---
 ## Preconditions
 
-- Sandbox ready
+User is logged in
 
 ## Steps
 
