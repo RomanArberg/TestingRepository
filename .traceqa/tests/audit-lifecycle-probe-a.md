@@ -1,7 +1,6 @@
 ---
 id: TC-1000
 title: Audit lifecycle probe A (renamed)
-suite: cli-audit
 status: draft
 priority: medium
 type: regression
