@@ -3,7 +3,7 @@ id: TC-1001
 title: Audit lifecycle probe A (renamed)
 suite: api
 status: active
-priority: medium
+priority: high
 type: acceptance
 automation_status: manual
 tags:
