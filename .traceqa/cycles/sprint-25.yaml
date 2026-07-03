@@ -2,5 +2,9 @@
 version: 1
 id: sprint-25
 name: Sprint 25 v2
+description: Regression round
 status: completed
+tags:
+  - v2
+  - final
 ---
