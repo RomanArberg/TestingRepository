@@ -1,7 +1,7 @@
 ---
 id: TC-1000
 title: Audit lifecycle probe A (renamed)
-suite: api/cli-audit
+suite: cli-audit
 status: active
 priority: medium
 type: regression
