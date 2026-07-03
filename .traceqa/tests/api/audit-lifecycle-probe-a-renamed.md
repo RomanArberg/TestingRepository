@@ -5,7 +5,7 @@ suite: api
 status: active
 priority: high
 type: acceptance
-automation_status: manual
+automation_status: planned
 tags:
   - cli-audit
 created: '2026-07-03T20:21:22.951Z'
