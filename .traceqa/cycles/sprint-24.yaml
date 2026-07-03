@@ -6,4 +6,6 @@ status: draft
 assignments:
   - testCaseId: TC-426
     assignee: ''
+  - testCaseId: TC-415
+    assignee: qa@example.com
 ---
