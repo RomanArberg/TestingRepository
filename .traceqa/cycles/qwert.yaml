@@ -6,5 +6,6 @@ status: draft
 assignments:
   - testCaseId: TC-321
     assignee: roman.arberg@gmail.com
+  - testCaseId: TC-1000
+    assignee: ''
 ---
-
